@@ -1,0 +1,10 @@
+D:\uni\C#Lab\Lecture10_700\Lecture10_700\bin\Debug\Lecture10_700.exe.config
+D:\uni\C#Lab\Lecture10_700\Lecture10_700\bin\Debug\Lecture10_700.exe
+D:\uni\C#Lab\Lecture10_700\Lecture10_700\bin\Debug\Lecture10_700.pdb
+D:\uni\C#Lab\Lecture10_700\Lecture10_700\obj\Debug\Lecture10_700.csproj.AssemblyReference.cache
+D:\uni\C#Lab\Lecture10_700\Lecture10_700\obj\Debug\Lecture10_700.Form1.resources
+D:\uni\C#Lab\Lecture10_700\Lecture10_700\obj\Debug\Lecture10_700.Properties.Resources.resources
+D:\uni\C#Lab\Lecture10_700\Lecture10_700\obj\Debug\Lecture10_700.csproj.GenerateResource.cache
+D:\uni\C#Lab\Lecture10_700\Lecture10_700\obj\Debug\Lecture10_700.csproj.CoreCompileInputs.cache
+D:\uni\C#Lab\Lecture10_700\Lecture10_700\obj\Debug\Lecture10_700.exe
+D:\uni\C#Lab\Lecture10_700\Lecture10_700\obj\Debug\Lecture10_700.pdb

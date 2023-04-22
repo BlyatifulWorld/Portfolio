@@ -1,0 +1,13 @@
+D:\uni\C#Lab\Lecture700\Lecture700\obj\Debug\netcoreapp3.1\Lecture700.csproj.AssemblyReference.cache
+D:\uni\C#Lab\Lecture700\Lecture700\obj\Debug\netcoreapp3.1\Lecture700.AssemblyInfoInputs.cache
+D:\uni\C#Lab\Lecture700\Lecture700\obj\Debug\netcoreapp3.1\Lecture700.AssemblyInfo.cs
+D:\uni\C#Lab\Lecture700\Lecture700\obj\Debug\netcoreapp3.1\Lecture700.csproj.CoreCompileInputs.cache
+D:\uni\C#Lab\Lecture700\Lecture700\bin\Debug\netcoreapp3.1\Lecture700.exe
+D:\uni\C#Lab\Lecture700\Lecture700\bin\Debug\netcoreapp3.1\Lecture700.deps.json
+D:\uni\C#Lab\Lecture700\Lecture700\bin\Debug\netcoreapp3.1\Lecture700.runtimeconfig.json
+D:\uni\C#Lab\Lecture700\Lecture700\bin\Debug\netcoreapp3.1\Lecture700.runtimeconfig.dev.json
+D:\uni\C#Lab\Lecture700\Lecture700\bin\Debug\netcoreapp3.1\Lecture700.dll
+D:\uni\C#Lab\Lecture700\Lecture700\bin\Debug\netcoreapp3.1\Lecture700.pdb
+D:\uni\C#Lab\Lecture700\Lecture700\obj\Debug\netcoreapp3.1\Lecture700.dll
+D:\uni\C#Lab\Lecture700\Lecture700\obj\Debug\netcoreapp3.1\Lecture700.pdb
+D:\uni\C#Lab\Lecture700\Lecture700\obj\Debug\netcoreapp3.1\Lecture700.genruntimeconfig.cache
