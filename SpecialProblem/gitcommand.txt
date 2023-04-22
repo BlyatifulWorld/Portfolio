@@ -1,0 +1,6 @@
+git clone <url>
+
+git add .
+git commit -m "commit message"
+git push origin main //git push <<repo-name>> <<branch-name>>
+git pull origin main //git pull <<repo-name>> <<branch-name>>

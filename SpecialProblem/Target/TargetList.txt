@@ -1,0 +1,8 @@
+How to view shit in this file
+First is the index, starts from 0. Next is the building name. 
+
+Liberal Art and Science <= This shit is the faculty name
+0 SC-11
+1 LLC
+2 SC-9
+3 SC-14

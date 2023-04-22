@@ -1,0 +1,34 @@
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mind-ar@1.2.0/dist/mindar-image-aframe.prod.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.2.0/dist/mindar-image.aframe.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/donmccurdy/aframe-extras@v6.1.1/dist/aframe-extras.min.js"></script>
+  </head>
+  <body>
+    <a-scene mindar-image="imageTargetSrc: ./targets.mind;" color-space="sRGB" renderer="colorManagement: true, physicallyCorrectLights" vr-mode-ui="enabled: false" device-orientation-permission-ui="enabled: false">
+      <a-assets>
+        <a-asset-item id="SC9" src="../Models/MODEL/Science/SC9/SC9_ver2.gltf"></a-asset-item>
+        <a-asset-item id="SC11" src="../Models/MODEL/Science/SC11/SC11_ver2.gltf"></a-asset-item>
+        <a-asset-item id="SC14" src="../Models/MODEL/Science/SC14/SC14_Ver4.gltf"></a-asset-item>
+        <a-asset-item id="LLC" src="../Models/MODEL/Science/LLC/LLC.gltf"></a-asset-item>
+      </a-assets>
+
+      <a-camera position="0 0 0" look-controls="enabled: false"></a-camera>
+
+      <a-entity mindar-image-target="targetIndex: 0">
+        <a-gltf-model rotation="0 0.5 0 " position="0 -0.25 0" scale="0.07 0.07 0.07" src="#SC11" animation-mixer>
+      </a-entity>
+      <a-entity mindar-image-target="targetIndex: 1">
+        <a-gltf-model rotation="0 0.5 0 " position="0 -0.25 0" scale="0.05 0.05 0.05" src="#LLC" animation-mixer>
+      </a-entity>
+      <a-entity mindar-image-target="targetIndex: 2">
+        <a-gltf-model rotation="0 0.5 0 " position="0 -0.25 0" scale="0.05 0.05 0.05" src="#SC9" animation-mixer>
+      </a-entity>
+      <a-entity mindar-image-target="targetIndex: 3">
+        <a-gltf-model rotation="0 0.5 0 " position="0 -0.25 0" scale="0.01 0.01 0.01" src="#SC14" animation-mixer>
+      </a-entity>
+    </a-scene>
+  </body>
+</html>
